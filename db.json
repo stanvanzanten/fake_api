@@ -1,0 +1,21 @@
+{
+	"xml-fragment": {
+		"id": "MenuBasedRouting_1",
+		"type": "MenuBasedRouting",
+		"label": "Menu Based Routing 1",
+		"outlet": [
+			{
+				"name": "Place order",
+				"cell": "1",
+				"keywords": ["order", "place", "purchase", "buy"],
+				"advertimage": "https://live.staticflickr.com/6020/5920122416_c35701abbd_b.jpg"
+			},
+			{
+				"name": "Return policy",
+				"cell": "2",
+				"keywords": ["return", "policy", "retour", "back", "send"],
+				"advertimage": "https://live.staticflickr.com/5059/5471190091_404f6ba72b_b.jpg"
+			}
+		]
+	}
+}
